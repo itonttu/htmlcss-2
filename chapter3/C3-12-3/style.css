@@ -1,0 +1,8 @@
+@charset "UTF-8";
+ul{
+    /* list-style-image:url(images/star.png); */
+    list-style: square url(images/star.png)outside;
+}
+ol{
+    list-style-position:inside;
+}

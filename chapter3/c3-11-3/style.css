@@ -1,0 +1,13 @@
+@charset "UTF-8";
+span{
+    border-style:solid ;
+    border-color: #0bd;
+}
+p{
+    border-style:solid ;
+    border-color:tomato;
+}
+div{
+    border-style:double dotted solid ridge ;
+    border-color: tan #0bd tomato #000;
+}
